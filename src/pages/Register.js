@@ -105,7 +105,7 @@ const Register = () => {
   };
 
   return (
-    <div className="register_page bg-gray-200 font-primary">
+    <div className="register_page bg-gray-200 font-primary min-h-full">
       <div className="container w-[350px] bg-white">
         <div className="flex flex-col py-10 px-1">
           <div className="nav_back flex items-start">

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Home = ({ handleLogout })  => {
   
   return (
-    <div className='home_page bg-gray-200'>
+    <div className='home_page bg-gray-200 min-h-full'>
       <div className='container w-[350px] bg-white'>
         <div className="flex flex-col px-12 py-20">
           <h2 className="title text-2xl font-bold mt-20 mb-3 text-center font-bold text-gray-900">

@@ -35,7 +35,7 @@ const Login = () => {
   };
 
   return (
-    <div className="login_page bg-gray-200">
+    <div className="login_page bg-gray-200 min-h-full">
       <div className="container w-[350px] bg-white">
         <div className="flex flex-col px-6 pt-20">
           <div className="logo pt-14 mt-10 ">
